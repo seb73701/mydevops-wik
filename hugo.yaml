@@ -1,0 +1,9 @@
+baseURL: https://seb73701.github.io/mydevops-wik/
+languageCode: fr-fr
+title: 'MyDevops-Wik'
+
+theme: 'mydevops-wik'
+
+caches:
+  images:
+    dir: :cacheDir/images
