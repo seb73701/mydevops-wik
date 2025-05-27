@@ -1,0 +1,13 @@
+main:
+- name: Articles
+  pageRef: /articles
+  weight: 1
+- name: Pages
+  pageRef: /pages
+  weight: 2
+- name: Hugo
+  params:
+    rel: external
+  pre: <i class="fa fa-heart"></i>
+  url: https://gohugo.io/
+  weight: 3

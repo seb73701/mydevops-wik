@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MyDevops-Wik</title>
-    <link>http://localhost:1313/mydevops-wik/tags/</link>
+    <link>https://seb73701.github.io/mydevops-wik/tags/</link>
     <description>Recent content in Tags on MyDevops-Wik</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/mydevops-wik/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seb73701.github.io/mydevops-wik/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue</title>
-      <link>http://localhost:1313/mydevops-wik/tags/blue/</link>
+      <link>https://seb73701.github.io/mydevops-wik/tags/blue/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mydevops-wik/tags/blue/</guid>
+      <guid>https://seb73701.github.io/mydevops-wik/tags/blue/</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
-      <link>http://localhost:1313/mydevops-wik/tags/green/</link>
+      <link>https://seb73701.github.io/mydevops-wik/tags/green/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mydevops-wik/tags/green/</guid>
+      <guid>https://seb73701.github.io/mydevops-wik/tags/green/</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
-      <link>http://localhost:1313/mydevops-wik/tags/red/</link>
+      <link>https://seb73701.github.io/mydevops-wik/tags/red/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mydevops-wik/tags/red/</guid>
+      <guid>https://seb73701.github.io/mydevops-wik/tags/red/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on MyDevops-Wik</title>
-    <link>http://localhost:1313/mydevops-wik/pages/</link>
+    <link>https://seb73701.github.io/mydevops-wik/pages/</link>
     <description>Recent content in Pages on MyDevops-Wik</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 27 May 2025 22:11:15 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/mydevops-wik/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Page</title>
-      <link>http://localhost:1313/mydevops-wik/pages/my-first-page/</link>
-      <pubDate>Tue, 27 May 2025 22:11:15 +0200</pubDate>
-      <guid>http://localhost:1313/mydevops-wik/pages/my-first-page/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://seb73701.github.io/mydevops-wik/pages/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

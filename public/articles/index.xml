@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on MyDevops-Wik</title>
-    <link>http://localhost:1313/mydevops-wik/articles/</link>
+    <link>https://seb73701.github.io/mydevops-wik/articles/</link>
     <description>Recent content in Articles on MyDevops-Wik</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 27 May 2025 22:10:55 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/mydevops-wik/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 22:46:33 +0200</lastBuildDate>
+    <atom:link href="https://seb73701.github.io/mydevops-wik/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Article</title>
-      <link>http://localhost:1313/mydevops-wik/articles/my-first-article/</link>
-      <pubDate>Tue, 27 May 2025 22:10:55 +0200</pubDate>
-      <guid>http://localhost:1313/mydevops-wik/articles/my-first-article/</guid>
-      <description></description>
+      <title>My Second Article</title>
+      <link>https://seb73701.github.io/mydevops-wik/articles/my-second-article/</link>
+      <pubDate>Tue, 27 May 2025 22:46:33 +0200</pubDate>
+      <guid>https://seb73701.github.io/mydevops-wik/articles/my-second-article/</guid>
+      <description>&lt;p&gt;A brief description of what the function does, using simple present tense in the third person singular form. For example:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;someFunction&lt;/code&gt; returns the string &lt;code&gt;s&lt;/code&gt; repeated &lt;code&gt;n&lt;/code&gt; times.&lt;/p&gt;&#xA;&lt;h2 id=&#34;signature&#34;&gt;Signature&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;func someFunction(s string, n int) string&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;&#xA;&lt;p&gt;One or more practical examples, each within a fenced code block.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;p&gt;Additional information to clarify as needed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
