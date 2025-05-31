@@ -4,6 +4,7 @@ title: 'MyDevops-Wik'
 
 #---- THEMES
 theme: 'mydevops-wik'
+#theme: 'blowfish'
 
 #---- CACHES
 caches:
